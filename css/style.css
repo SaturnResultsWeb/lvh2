@@ -366,7 +366,7 @@ em { font-style:italic; }
 
 .hours-block { margin-bottom:10px; }
 .hours-block__label { font-size:.7rem; font-weight:700; letter-spacing:.12em; text-transform:uppercase; color:var(--terracotta); margin-bottom:2px; }
-.hours-block__time { font-size:.9rem; color:var(--charcoal); }
+.hours-block__time { font-size:.9rem; color:rgba(255,255,255,.65); }
 
 @media(max-width:1060px){
   .hero .container { grid-template-columns:1fr; }
